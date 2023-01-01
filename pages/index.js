@@ -38,7 +38,7 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Smart content curation for Twitter</h1>
+            <h1>Smart Tweet Generator</h1>
           </div>
           <div className="header-subtitle">
             <h2>Boost your Tweets with AI-powered content curation</h2>
