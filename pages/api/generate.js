@@ -8,7 +8,7 @@ const openai = new OpenAIApi(configuration);
 
 const basePromptPrefix =
 `
-Write me a twitter post with the topics below. Please make sure the blog post goes in-depth on the topic and shows that the writer did their research.
+Write me an interesting twitter post with the topics below. Please make sure tweet is less than 280 words on the topic and include some tags.
 
 Topics:
 `;
